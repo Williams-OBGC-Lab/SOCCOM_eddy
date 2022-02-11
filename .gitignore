@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+SOCCOM_eddy_matchups.pkl
+unique_subset.pkl
+SOCCOM_snapshot.pkl
+generated/
+data/*
+!data/.empty
